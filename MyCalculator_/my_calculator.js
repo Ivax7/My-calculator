@@ -2,7 +2,7 @@
 
 // guardamos la pantalla
 let screen = document.querySelector(".screen");
-// guardamos los botones
+// guardamos los botones con la clase btn
 let button = document.querySelectorAll(".btn");
 
 // para cada boton creamos eventos
